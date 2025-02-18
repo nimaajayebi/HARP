@@ -27,4 +27,4 @@ seaborn 0.12.2
 
 For ESM-2 embedding you need transformers:
 
-`conda install conda-forge::transformers`
+```conda install conda-forge::transformers```
