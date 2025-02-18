@@ -5,7 +5,7 @@ This pipeline is in Python for NGS Data Process and Analysis that gives an overv
 
 "High-throughput Activity Reprogramming of Proteases (HARP)", 2025
 
-Samantha G Martinusen1, Seyednima Ajayebi1, Ethan W Slaton1, Marian A Pulgar1, Cassidy F Simas2, Sage E Nelson1, Julia T Besu3, Amit Dutta4, Steven Bruner4, Carl A Denard1,5*  
+Samantha G Martinusen, Seyednima Ajayebi, Ethan W Slaton, Marian A Pulgar, Cassidy F Simas, Sage E Nelson, Julia T Besu, Amit Dutta, Steven Bruner, Carl A Denard*  
 
 ## How to use :
 1. Clone or download the notebook on your machine
