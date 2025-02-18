@@ -24,3 +24,7 @@ numpy 1.26.4
 pandas 2.1.1
 scipy 1.11.3
 seaborn 0.12.2
+
+For ESM-2 embedding you need transformers:
+
+`conda install conda-forge::transformers`
