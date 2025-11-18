@@ -3,10 +3,12 @@
 
 This Python pipeline processes and analyzes NGS data, providing an overview of the analysis performed for the following paper:
 
-**High-throughput Activity Reprogramming of Proteases (HARP)** 
-2025
 
-*Samantha G Martinusen, Ethan W Slaton, Seyednima Ajayebi, Marian A Pulgar, Cassidy F Simas, Sage E Nelson, Julia T Besu, Amit Dutta, Steven Bruner, Carl A Denard*
+[**High-Throughput Activity Reprogramming of Proteases (HARP)**](https://pubs.acs.org/doi/10.1021/acschembio.5c00230)
+*Samantha G. Martinusen, Ethan W. Slaton, Seyednima Ajayebi, Marian A. Pulgar, Cassidy F. Simas, Sage E. Nelson, Amit Dutta, Julia T. Besu, Steven Bruner, and Carl A. Denard*
+ACS Chemical Biology 2025 20 (10), 2381-2392
+DOI: 10.1021/acschembio.5c00230 
+
 
 ## Usage:
 1. Clone or download the repository, then open the provided Jupyter Notebook to follow the step-by-step instructions.
