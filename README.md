@@ -6,7 +6,7 @@ This Python pipeline processes and analyzes NGS data, providing an overview of t
 **High-throughput Activity Reprogramming of Proteases (HARP)** 
 2025
 
-*Samantha G Martinusen, Seyednima Ajayebi, Ethan W Slaton, Marian A Pulgar, Cassidy F Simas, Sage E Nelson, Julia T Besu, Amit Dutta, Steven Bruner, Carl A Denard*
+*Samantha G Martinusen, Ethan W Slaton, Seyednima Ajayebi, Marian A Pulgar, Cassidy F Simas, Sage E Nelson, Julia T Besu, Amit Dutta, Steven Bruner, Carl A Denard*
 
 ## Usage:
 1. Clone or download the repository, then open the provided Jupyter Notebook to follow the step-by-step instructions.
